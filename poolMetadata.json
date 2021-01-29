@@ -1,6 +1,6 @@
 {
   "name": "BEAST Pool",
-  "description": "This is @Beastlyorion's future Cardano stake pool",
+  "description": "This is @beastlorion's staking pool.",
   "ticker": "BEAST",
   "homepage": "https://twitter.com/Beastlyorion",
   "extended": "https://beastlyorion.github.io/poolMetadataExt.json"
